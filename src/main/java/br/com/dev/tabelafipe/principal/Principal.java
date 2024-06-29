@@ -18,7 +18,7 @@ public class Principal {
 
     public void exibeMenu() {
         System.out.println("""
-                $ TAPELA FIPE $ 
+                $ TABELA FIPE $ 
                 1) Carros e Utilitários
                 2) Motos 
                 3) Caminhões e Micro-Ônibus
